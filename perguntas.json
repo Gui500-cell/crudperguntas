@@ -1,0 +1,52 @@
+[
+  {
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "opcoes": ["A) Terra", "B) Marte", "C) Júpiter"],
+    "resposta": "C"
+  },
+  {
+    "pergunta": "Qual país é considerado o mais populoso do mundo atualmente?",
+    "opcoes": ["A) Índia", "B) China", "C) Indonésia"],
+    "resposta": "A"
+  },
+  {
+    "pergunta": "Em qual oceano fica a Fossa das Marianas, o ponto mais profundo conhecido?",
+    "opcoes": ["A) Atlântico", "B) Pacífico", "C) Índico"],
+    "resposta": "B"
+  },
+  {
+    "pergunta": "Quantos elementos químicos a Tabela Periódica possui oficialmente?",
+    "opcoes": ["A) 103", "B) 112", "C) 118"],
+    "resposta": "C"
+  },
+  {
+    "pergunta": "Quem foi o autor da teoria da relatividade geral?",
+    "opcoes": ["A) Isaac Newton", "B) Nikola Tesla", "C) Albert Einstein"],
+    "resposta": "C"
+  },
+  {
+    "pergunta": "Qual é a capital oficial da Austrália?",
+    "opcoes": ["A) Sydney", "B) Melbourne", "C) Camberra"],
+    "resposta": "C"
+  },
+  {
+    "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
+    "opcoes": ["A) 1975", "B) 1989", "C) 1995"],
+    "resposta": "B"
+  },
+  {
+    "pergunta": "Qual é o maior deserto quente do mundo?",
+    "opcoes": ["A) Gobi", "B) Saara", "C) Kalahari"],
+    "resposta": "B"
+  },
+  {
+    "pergunta": "Em qual país se originou o Renascimento?",
+    "opcoes": ["A) França", "B) Inglaterra", "C) Itália"],
+    "resposta": "C"
+  },
+  {
+    "pergunta": "Qual desses animais é considerado o maior animal que já existiu na Terra?",
+    "opcoes": ["A) Tiranossauro rex", "B) Baleia-azul", "C) Megalodon"],
+    "resposta": "B"
+  }
+]
