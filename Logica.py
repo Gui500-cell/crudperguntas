@@ -34,6 +34,6 @@ def excluir(perguntas, indice):
     salvar_dados(perguntas)                             
 
 # Função de Limpar
-#def limpar():
-# pergunta.delete(0, tk.END) 
+def limpar(perguntas):
+ perguntas.delete(0, tk.END) 
 
